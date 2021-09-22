@@ -1,2 +1,2 @@
 name: hariharan
-details: ksdnnsdksdmksmd
+details: some-more-details
